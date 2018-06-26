@@ -17,6 +17,6 @@ cleanup:
 
 preview:
   image:
-    repository: phx.ocir.io/dtefaoncompute/liuxiaopiao/golang-demo
+    repository:
     tag:
     pullPolicy: IfNotPresent
